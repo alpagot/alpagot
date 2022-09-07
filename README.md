@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things Fastly, F1, Tennis as well as fun things to do for the family! 
 - 🌱 I’m currently learning Ruby as well as keeping pace with the wealth of what Fastly has to offer! 
 - 💞️ I’m looking to collaborate on nothing at the min, I have a few projects going! 
-- 📫 How to reach me: A DM to @alpagot on Twitter is probably best initially. 
+- 📫 How to reach me: A DM to @alpagot on Twitter or via linkedIn is probably best initially if we're not aquainted. 
 
 <!---
 alpagot/alpagot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
